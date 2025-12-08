@@ -5,7 +5,7 @@ on:
 
 jobs:
   secure-rdp:
-    runs-on: windows-2019  # یان windows-2022 - ھەردووکیان ویندۆز 10ە
+    runs-on: windows-2022  # یان windows-2022 - ھەردووکیان ویندۆز 10ە
     timeout-minutes: 300  # 5 کاتژمێر = 300 خولەک
 
     steps:
